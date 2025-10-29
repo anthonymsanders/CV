@@ -3,7 +3,8 @@
 Below is a table of some core technologies I've used or have exposure to:
 Be aware. I don't update the details of the skills oftern.
 
-# Capability|Technology|Status|Experience
+| Capability | Technology | Status | Experience |
+|-------------------------|------------|------------|--------------|
 Windows Active Directory |Microsoft|Recent projects|10+ years
 ADFS|Microsoft| A while ago|6 years
 Entra|Microsoft|Active Skill|8+ Years
