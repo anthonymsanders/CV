@@ -6,7 +6,7 @@ The intend of this page is to show case Business + Technical project delivers.
 |-------------|-------------------------|-----------------|------------------|------------|
 API developemnt Cheltenham Samariatans|Provide visibilty to the states of on site applications using by the Cheltenham Samaritans branch to the IT teams| Third party API management and powershell scription|100 users | 2020
 Advanced Conditional Access Policy Reviews|Supporting companies protect there key applicstion and identities| Microsoft Conditional Access| SMB/FTSE100|2020 onwards
-AVD assessments/Reviews|Supporting Microsoft customers get the best value from their AVD deployment|SMB/FTSE100|2020 onwards
+AVD assessments/Reviews|Supporting Microsoft customers get the best value from their AVD deployment|Microsoft|SMB/FTSE100|2020 onwards
 Azure AD /Entra ID assessment and feature PoC (Strong Auth)|||SMB/FTSE100|2019 onwards
 Active Directory Assessment including hardening||Microsoft|SMB/FTSE100|2019 onwards
 ADFS Assessments||Microsoft|SMB/FTSE100|2019 onwards
