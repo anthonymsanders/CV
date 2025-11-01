@@ -8,9 +8,9 @@ API developemnt Cheltenham Samariatans|Provide visibilty to the states of on sit
 Advanced Conditional Access Policy Reviews|Supporting companies protect there key applicstion and identities| Microsoft Conditional Access| SMB/FTSE100|2020 onwards
 AVD assessments/Reviews|Supporting Microsoft customers get the best value from their AVD deployment|SMB/FTSE100|2020 onwards
 Azure AD /Entra ID assessment and feature PoC (Strong Auth)|||SMB/FTSE100|2019 onwards
-Active Directory Assessment including hardening|||SMB/FTSE100|2019 onwards
-ADFS Assessments|||SMB/FTSE100|2019 onwards
-Microsoft Clustering assessments|||SMB/FTSE100|2019 onwards
+Active Directory Assessment including hardening||Microsoft|SMB/FTSE100|2019 onwards
+ADFS Assessments||Microsoft|SMB/FTSE100|2019 onwards
+Microsoft Clustering assessments||Microsoft|SMB/FTSE100|2019 onwards
 
 
 
